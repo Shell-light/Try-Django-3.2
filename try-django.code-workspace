@@ -5,6 +5,7 @@
 		}
 	],
 	"settings": {
-		"editor.accessibilityPageSize": 20
+		"editor.accessibilityPageSize": 20,
+		"terminal.integrated.fontSize": 20
 	}
 }
